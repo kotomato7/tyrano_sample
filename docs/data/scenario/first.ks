@@ -1,46 +1,79 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="ドキドキ前世占い！！"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「あなたの前世占います！」[l][r]
 
-メロスは激怒した。[l][r]
+画面の前の君、君は前世を信じるかい？[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+申し遅れました。わたくし前世占いマスターのぜんぜんきんです。[l][r]
 
-(中略)[l][r]
+はるばるあなたの前世を占いに来た神的ポジションなのだ。[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+早速君の前世を占っちゃうのだ！！！[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+下の選択肢から自分が気になる色を一つ選んでみてね。[l][r]
+
+注意!以下の占いは独断と偏見による何の信憑性もないものです...[r]
+
+[link target=*tag_red] →赤 [endlink][r]
+[link target=*tag_blue] →青 [endlink][r]
+[link target=*tag_yellow] →黄 [endlink][r]
+[link target=*tag_green] →緑 [endlink][r]
+
 [s]
 
-*tag_sleep
+*tag_red
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=サイ.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+赤色を選んだあなたの前世は...[l][r]
+勇猛果敢なサイのライノ君！!
 
-【 BAD END 】[l][cm]
+[l][cm]
 
 [jump target=*start]
 
-*tag_run
-
-[bg storage=run.jpg time=500]
+*tag_blue
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
 
-【 GOOD END 】[l][cm]
+[bg storage=karasu.jpg time=500]
+
+青色を選んだあなたの前世は...[l][r]
+冷静沈着なカラスのクロちゃん！!
+
+[l][cm]
+
+[jump target=*start]
+
+*tag_yellow
+
+[cm]
+
+[bg storage=pome.jpg time=500]
+
+黄色を選んだあなたの前世は...[l][r]
+天真爛漫なポメラニアンの侘助君！!
+
+[l][cm]
+
+[jump target=*start]
+
+*tag_green
+
+[cm]
+
+[bg storage=kaba.jpg time=500]
+
+緑色を選んだあなたの前世は...[l][r]
+泰然自若なカバのカバールちゃん！!
+
+[l][cm]
 
 [jump target=*start]
