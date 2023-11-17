@@ -36,9 +36,9 @@
 
 赤色を選んだあなたの前世は...[l][r]
 
-[font color=red]勇猛果敢[resetfont]なサイのライノ君！![l][r]
+[font color=red size=30]勇猛果敢[resetfont]なサイのライノ君！![l][r]
 
-前世から走り回っていたあなたは、いまの人生も元気よく謳歌していることでしょう。[r]
+前世から走り回っていたあなたは、いまの人生も元気よく謳歌しているはず。[r]
 
 [link target=*start] →始まりへ [endlink][r]
 [link target=*tag_red] →前世へ [endlink][r]
@@ -54,7 +54,7 @@
 
 青色を選んだあなたの前世は...[l][r]
 
-[font color=0x00ffff]冷静沈着[resetfont]なカラスのクロちゃん！![l][r]
+[font color=0x00ffff size=30]冷静沈着[resetfont]なカラスのクロちゃん！![l][r]
 
 前世で鳥だったあなたは、いまもたま～に空にあこがれているはず。[r]
 
@@ -72,7 +72,7 @@
 
 黄色を選んだあなたの前世は...[l][r]
 
-[font color=0xffd700]天真爛漫[resetfont]なポメラニアンの侘助君！![l][r]
+[font color=0xffd700 size=30]天真爛漫[resetfont]なポメラニアンの侘助君！![l][r]
 
 前世で愛くるしいワンちゃんだったあなたは、いまも誰かに甘えたいはず。[r]
 
@@ -90,9 +90,9 @@
 
 緑色を選んだあなたの前世は...[l][r]
 
-[font color=0x00ff00]泰然自若[resetfont]なカバのカバールちゃん！![l][r]
+[font color=0x00ff00 size=30]泰然自若[resetfont]なカバのカバールちゃん！![l][r]
 
-前世でのらりくらり暮らしていたあなたは、いまもゆったりとした生活を求めているはずだ。[r]
+前世でのらりくらり暮らしていたあなたは、いまもゆったりとした生活を求めているはず。[r]
 
 [link target=*start] →始まりへ [endlink][r]
 [link target=*tag_green] →前世へ [endlink][r]
