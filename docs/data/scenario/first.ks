@@ -1,5 +1,7 @@
 *start
 
+[cm]
+
 [title name="ドキドキ前世占い！！"]
 [hidemenubutton]
 [wait time=200]
@@ -9,7 +11,7 @@
 
 画面の前の君、君は前世を信じるかい？[l][r]
 
-申し遅れました。わたくし前世占いマスターのぜんぜんきんです。[l][r]
+申し遅れましたのだ。わたくし前世占いマスターのゴンザレスなのだ。[l][r]
 
 はるばるあなたの前世を占いに来た神的ポジションなのだ。[l][r]
 
@@ -33,11 +35,16 @@
 [bg storage=サイ.jpg time=500]
 
 赤色を選んだあなたの前世は...[l][r]
-勇猛果敢なサイのライノ君！!
 
-[l][cm]
+勇猛果敢なサイのライノ君！![l][r]
 
-[jump target=*start]
+前世から走り回っていたあなたは、いまの人生も元気よく謳歌していることでしょう。[r]
+
+[link target=*start] →始まりへ [endlink][r]
+[link target=*tag_red] →前世へ [endlink][r]
+[link target=*now] →現世へ [endlink][r]
+
+[s]
 
 *tag_blue
 
@@ -46,11 +53,16 @@
 [bg storage=karasu.jpg time=500]
 
 青色を選んだあなたの前世は...[l][r]
-冷静沈着なカラスのクロちゃん！!
 
-[l][cm]
+冷静沈着なカラスのクロちゃん！![l][r]
 
-[jump target=*start]
+前世で鳥だったあなたは、いまもたま～に空にあこがれているはず。[r]
+
+[link target=*start] →始まりへ [endlink][r]
+[link target=*tag_blue] →前世へ [endlink][r]
+[link target=*now] →現世へ [endlink][r]
+
+[s]
 
 *tag_yellow
 
@@ -59,11 +71,16 @@
 [bg storage=pome.jpg time=500]
 
 黄色を選んだあなたの前世は...[l][r]
-天真爛漫なポメラニアンの侘助君！!
 
-[l][cm]
+天真爛漫なポメラニアンの侘助君！![l][r]
 
-[jump target=*start]
+前世で愛くるしいワンちゃんだったあなたは、いまも誰かに甘えたいはず。[r]
+
+[link target=*start] →始まりへ [endlink][r]
+[link target=*tag_yellow] →前世へ [endlink][r]
+[link target=*now] →現世へ [endlink][r]
+
+[s]
 
 *tag_green
 
@@ -72,8 +89,33 @@
 [bg storage=kaba.jpg time=500]
 
 緑色を選んだあなたの前世は...[l][r]
-泰然自若なカバのカバールちゃん！!
 
-[l][cm]
+泰然自若なカバのカバールちゃん！![l][r]
 
-[jump target=*start]
+前世でのらりくらり暮らしていたあなたは、いまもゆったりとした生活を求めているはずだった。
+
+[link target=*start] →始まりへ [endlink][r]
+[link target=*tag_green] →前世へ [endlink][r]
+[link target=*now] →現世へ [endlink][r]
+
+[s]
+
+*now
+
+[cm]
+
+[freeimage layer="base"]
+
+画面の前のみんな、元気かな？[l][r]
+
+ゴンザレスからひとつ君たちへアドバイスなのだ。[l][r]
+
+こんなことしてる暇があったらはやく画面を閉じるのだ。[l][r]
+
+おつかれなのだ。[r]
+
+[link target=*start] →始まりへ [endlink][r]
+
+[s]
+
+
